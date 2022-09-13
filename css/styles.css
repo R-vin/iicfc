@@ -1,0 +1,117 @@
+body{
+  background-color: #F6FBF4;
+  margin: 0;
+
+}
+h1{
+  color: #FBDF07;
+  font-size: 2rem;
+  padding-top: 30px;
+  text-shadow: 2px 2px #181818;
+  height: 300px;
+  font-family: 'Roboto Slab', serif;
+
+}
+.logo{
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 25%;
+}
+
+.top-container{
+  background-image: url('../images/background.jpg');
+  position: relative;
+  padding-top: 20px;
+  height: 250px;
+}
+
+.middle-container{
+  	text-align: center;
+    margin-top: 200px;
+}
+
+.vision{
+      display: inline-block;
+      width: 400px;
+      height: 400px;
+}
+.purpose{
+  display: inline-block;
+  width: 400px;
+  height: 400px;
+  margin-left: 30px;
+  margin-right: 30px;
+
+}
+.goal{
+  display: inline-block;
+  width: 400px;
+  height: 400px;
+}
+
+
+.bible_gif{
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 150px;
+  right: 100px;
+
+}
+
+/*
+}
+
+.first-image{
+  background-color: yellow;
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  transition: width 2s, height 4s;
+}
+.first-image:hover{
+  width: 500px;
+  height: 500px;
+}
+.vision{
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  transition: width 2s, height 4s;
+}
+.vision-image:hover{
+  display: block;
+  width: 500px;
+  height: 500px;
+}
+.second-image{
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.purpose{
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  transition: width 2s, height 4s;
+}
+.purpose:hover{
+
+  width: 400px;
+  height: 400px;
+}
+
+.third-image{
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+}
+
+.goal{
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  */
